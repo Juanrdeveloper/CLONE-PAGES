@@ -41,11 +41,11 @@ body{
 
 .row{
     color: white;
-    margin-left:20px;
+   
 }
 
 .banner{
-    background-image: url(banner.jpg);
+    background-image: url(small-movie3.jpg);
     background-size: cover; 
     background-position: center center;
     color: white;
